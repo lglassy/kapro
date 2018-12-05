@@ -1,3 +1,4 @@
 # kapro
 
-Kapro estas simpla documento-datumbazo, kiu uzas SQLite kiel gia datuma motoro.
+Kapro estas simpla dokumento-datumbazo, kiu uzas SQLite kiel ĝia datuma motoro.
+ 
